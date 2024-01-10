@@ -1,4 +1,4 @@
-GoLang 01 talent Piscine solution
+GoLang 01 edu Piscine solution
 
 
 1- How to contribute
