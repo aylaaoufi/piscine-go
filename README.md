@@ -1,4 +1,4 @@
-GoLang 01 edu Piscine solution
+Golang 01 edu piscine solution
 
 
 1- How to contribute
