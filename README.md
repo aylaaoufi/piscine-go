@@ -1,9 +1,9 @@
-Golang 01 edu piscine solution
+# Golang 01 edu piscine solution
 
 
-How to contribute:
+## How to contribute:
 
-1- Create a new branch
+ 1- Create a new branch
 
 2- Commit your changes
 
