@@ -2,7 +2,6 @@ package main
 
 import "github.com/01-edu/z01"
 
-
 func FirstRune(s string) rune {
 	letre := []rune(s)
 	return letre[0]

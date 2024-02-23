@@ -2,11 +2,10 @@ package main
 
 import "fmt"
 
-
 func BasicAtoi2(s string) int {
 	result := 0
 	for _, char := range s {
-		result = result*10 + int(char - '0')
+		result = result*10 + int(char-'0')
 		if char == ' ' || char >= 'a' && char <= 'z' || char >= 'A' && char <= 'Z' {
 			return 0
 		}

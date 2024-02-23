@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func IterativeFactorial(nb int) int {
 	if nb < 0 {
 		return 0

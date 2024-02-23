@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func IsUpper(s string) bool {
 	letre := []rune(s)
 

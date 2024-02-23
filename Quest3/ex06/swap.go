@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func Swap(a *int, b *int) {
 	x := *a
 	*a = *b

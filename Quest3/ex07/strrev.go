@@ -4,7 +4,6 @@ import (
 	"fmt"
 )
 
-
 func StrRev(s string) string {
 	rev := []rune(s)
 	i := len(rev) - 1
@@ -17,7 +16,6 @@ func StrRev(s string) string {
 	}
 	return string(rev)
 }
-
 
 func main() {
 	s := "Hello World!"

@@ -1,10 +1,9 @@
 package main
 
 import (
-	"os"
 	"github.com/01-edu/z01"
+	"os"
 )
-
 
 func main() {
 	input := os.Args[0]

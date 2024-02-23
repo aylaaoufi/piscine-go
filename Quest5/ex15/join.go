@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func Join(strs []string, sep string) string {
 	result := ""
 

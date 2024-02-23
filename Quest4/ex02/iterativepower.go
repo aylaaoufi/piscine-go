@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func IterativePower(nb int, power int) int {
 	result := 1
 

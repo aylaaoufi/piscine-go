@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func Atoi(s string) int {
 	result := 0
 	sign := 1
@@ -13,11 +12,11 @@ func Atoi(s string) int {
 				sign = -sign
 			}
 			continue
-		} 
+		}
 		if char < '0' || char > '9' {
 			return 0
 		}
-		result = result*10 + int(char - '0')
+		result = result*10 + int(char-'0')
 	}
 	return result * sign
 }

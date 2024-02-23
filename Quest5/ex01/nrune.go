@@ -2,12 +2,11 @@ package main
 
 import "github.com/01-edu/z01"
 
-
 func NRune(s string, n int) rune {
 	letre := []rune(s)
 
 	if n > 0 && len(letre) >= n {
-		return letre[n - 1]
+		return letre[n-1]
 	} else {
 		return 0
 	}

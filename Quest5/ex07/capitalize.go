@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func Capitalize(s string) string {
 	letre := []rune(s)
 	nextchar := true

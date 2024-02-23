@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func ToLower(s string) string {
 	letre := []rune(s)
 

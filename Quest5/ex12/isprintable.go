@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func IsPrintable(s string) bool {
 	letre := []rune(s)
 

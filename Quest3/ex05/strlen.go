@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func StrLen(s string) int {
 	for range s {
 

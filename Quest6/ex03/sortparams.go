@@ -6,9 +6,8 @@ import (
 	"fmt"
 )
 
-
 func main() {
-	input := os.Args[1:] 
+	input := os.Args[1:]
 
 	for i := 0; len(input) > i; i++ {
 		for j := i + 1; len(input) > j; j++ {

@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-
 func Index(s string, toFind string) int {
 	letre := []rune(s)
 	letre2 := []rune(toFind)

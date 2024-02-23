@@ -2,7 +2,6 @@ package main
 
 import "github.com/01-edu/z01"
 
-
 func LastRune(s string) rune {
 	letre := []rune(s)
 	length := len(letre)
